@@ -57,7 +57,7 @@
 <td width="40%">
 
 <img 
-src="https://img.magnific.com/vetores-premium/capture-o-espirito-legal-e-travesso-de-um-jovem-hacker-em-um-desenho-animado-dinamico-e-expressivo_851674-44528.jpg?w=360"
+src="https://img.magnific.com/premium-photo/portrait-successful-programmer-game-developer-coder-guy-uses-computer-laptop-work-game-design-hacker-boy-generative-ai-cyber-gamer_117038-7603.jpg"
 width="100%"
 />
 
