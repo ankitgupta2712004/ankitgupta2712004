@@ -5,6 +5,27 @@
 </h3>
 
 <p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" 
+    width="100%" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Welcome+To+My+GitHub+Profile;C%2B%2B+Programmer;AI%2FML+Enthusiast;Full+Stack+Developer;Always+Learning+New+Things" 
+    alt="Typing SVG" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" 
+    width="700"
+  />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/ankit-gupta-365159376/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
