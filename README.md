@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#8b5cf6;">Ankit Gupta</span></h1>
 
 <h3 align="center">
-Full Stack Developer | C++ Programmer | AI/ML Enthusiast
+ C++ Programmer | AI/ML Enthusiast
 </h3>
 
 <p align="center">
@@ -26,8 +26,7 @@ Full Stack Developer | C++ Programmer | AI/ML Enthusiast
 
 # 🚀 About Me
 
-- 🌱 Currently learning AI/ML & Cyber Security
-- 💻 Passionate about Full Stack Development
+- 🌱 Currently learning AI/ML 
 - ⚡ Love solving DSA problems and building projects
 - 🎯 Goal: To become a skilled software developer
 
