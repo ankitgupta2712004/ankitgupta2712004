@@ -65,10 +65,13 @@ width="100%"
 
 <td width="60%" valign="top">
 
+<h3>👨‍💻 Developer Journey</h3>
+
 - 🌱 Currently learning AI/ML  
-- ⚡ Love solving DSA problems  
-- 💻 Building projects daily  
-- 🎯 Future Software Engineer  
+- ⚡ Love solving DSA problems and building projects  
+- 🔥 Passionate about Technology and Innovation  
+- 💻 Exploring modern technologies  
+- 🎯 Goal: To become a skilled software developer  
 
 </td>
 
