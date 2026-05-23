@@ -51,9 +51,32 @@
 
 # 🚀 About Me
 
-- 🌱 Currently learning AI/ML 
-- ⚡ Love solving DSA problems and building projects
-- 🎯 Goal: To become a skilled software developer
+<table>
+<tr>
+
+<td width="40%">
+
+<img
+src="https://user-images.githubusercontent.com/74038190/212284068-7d0c5bdf-9e2d-4b9e-bf6e-7f7d3d8e4b6c.gif"
+width="100%"
+/>
+
+</td>
+
+<td width="60%" valign="top">
+
+<h3>👨‍💻 Developer Journey</h3>
+
+- 🌱 Currently learning AI/ML  
+- ⚡ Love solving DSA problems and building projects  
+- 🔥 Passionate about Technology and Innovation  
+- 💻 Exploring modern technologies  
+- 🎯 Goal: To become a skilled software developer  
+
+</td>
+
+</tr>
+</table>
 
 ---
 
