@@ -57,19 +57,15 @@
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankitgupta2712004&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=ankitgupta2712004&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="49%" />
+
+<img src="https://streak-stats.demolab.com?user=ankitgupta2712004&theme=tokyonight&hide_border=true" width="49%" />
 
 </p>
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankitgupta2712004&theme=tokyonight" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankitgupta2712004&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitgupta2712004&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 
 </p>
 
