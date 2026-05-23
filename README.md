@@ -56,8 +56,8 @@
 
 <td width="40%">
 
-<img
-src="https://user-images.githubusercontent.com/74038190/212284068-7d0c5bdf-9e2d-4b9e-bf6e-7f7d3d8e4b6c.gif"
+<img 
+src="https://img.magnific.com/vetores-premium/capture-o-espirito-legal-e-travesso-de-um-jovem-hacker-em-um-desenho-animado-dinamico-e-expressivo_851674-44528.jpg?w=360"
 width="100%"
 />
 
@@ -65,13 +65,10 @@ width="100%"
 
 <td width="60%" valign="top">
 
-<h3>👨‍💻 Developer Journey</h3>
-
 - 🌱 Currently learning AI/ML  
-- ⚡ Love solving DSA problems and building projects  
-- 🔥 Passionate about Technology and Innovation  
-- 💻 Exploring modern technologies  
-- 🎯 Goal: To become a skilled software developer  
+- ⚡ Love solving DSA problems  
+- 💻 Building projects daily  
+- 🎯 Future Software Engineer  
 
 </td>
 
